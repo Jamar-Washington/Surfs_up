@@ -1,5 +1,9 @@
 # Surfs_up
 
+### Tools used in the project
+**Juypter Notebook**  
+**SQLite**
+
 ## Project Overview
 In the Surfs Up project, we are looking at the possibility of opening a surf and ice cream shop on the Hawaiian island of Oahu. To convience potential investors of an ice cream and surf shop start up, we look at the weather patterns on the island. In order to convince them, we use a weather database in a .sqlite format. We also look at the descriptive statistics of the weather of the months in question to determine the sustainability of this shop year-round. We also are looking at the best site on the island based on the location of weather stations. With all these factored in, we can determine if it is possible to open a shop and the best place to open shop at.
 
